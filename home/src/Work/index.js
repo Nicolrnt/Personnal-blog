@@ -21,7 +21,7 @@ function Work() {
         <h3><a href="#work">👨‍💻 Mon Expérience Professionelle 👨‍💻</a></h3>
         <h3><a href="#project">🛠️ Mes Projets Entrepreneuriaux 🛠️</a></h3>
         <h3><a href="#study">📚 Mon Parcour Académique 📚</a></h3>
-        <h3><a href="#study" target="_blank">📄 Mon CV 📄</a></h3>
+        <h3><a href="/Nicolas_Laurent_CV.pdf" target="_blank">📄 Mon CV 📄</a></h3>
         <h3><a href="#social">📱 Social et contact 📱</a></h3>
       </div>
 
@@ -37,9 +37,9 @@ function Work() {
             <h3>💡 Product Owner 💡</h3>
             <h4>2020 - Maintenant | Polyconseil</h4>
             <p>
-              This is a description of what I've done in the company<br />
-              As much as possible it should be easy to read<br />
-              but also provide a lot of <b>value</b> and <b>keywords</b>.
+              Au sein d'un équipe composée de <b>consultants</b>, <b>développeurs</b> et <b>data scientists</b>, 
+              je joue le rôle de <b>Product Owner</b> de mon sujet et me positionne en <b>véritable expert</b> des questions que 
+              je traite en matière de <b>développement logiciel</b> et de <b>transformation numérique</b>.
             </p>
           </div>
         </div>
