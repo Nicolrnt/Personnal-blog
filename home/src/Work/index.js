@@ -9,6 +9,7 @@ import {
   RightWrapper,
   SplitTitle
 } from './Work.module.css';
+// import '/fonts/Roboto';
 
 function Work() {
   return (
@@ -16,7 +17,7 @@ function Work() {
       <div className={BackgroundWrapper}></div>
 
       <div className={NavWrapper}>
-        <h2>Sections</h2>
+        <h2><b>Sections</b></h2>
         <h3><a href="#work">👨‍💻 Mon Expérience Professionelle 👨‍💻</a></h3>
         <h3><a href="#project">🛠️ Mes Projets Entrepreneuriaux 🛠️</a></h3>
         <h3><a href="#study">📚 Mon Parcour Académique 📚</a></h3>
@@ -197,7 +198,6 @@ function Work() {
             <h4>Email : nicolas-laurent@outlook.fr</h4>
           </div>
         </div>
-
 
       </div>
     </div>
