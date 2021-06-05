@@ -1,13 +1,11 @@
 import React from 'react';
-import Hero from './Hero';
-import Work from './Work';
+import Home from './Home';
 import './App.css';
 
 function App() {
   return (
     <div>
-      <Hero />
-      <Work />
+      <Home />
     </div>
   );
 }
